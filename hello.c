@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("hi chang! auto change check222!!!!");
+    printf("hi chang!!!");
     return 0;
 }
